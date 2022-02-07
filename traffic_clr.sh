@@ -7,14 +7,7 @@ elif [ $colour == GREEN ]; then
    echo "GREEN colour indicates START"
 elif [ $colour == YELLOW ]; then
    echo "YELLOW colour indicates READY TO START"
-<<<<<<< HEAD
 else
     echo "sorry This colour is not avalible"
     echo "THANKS YOU!!.."
 fi
-=======
-else 
-    echo "sorry This colour is not avalible"
-    echo "THANKS YOU!!.."
-fi    
->>>>>>> dbfa085 (feat: Create index.html)
