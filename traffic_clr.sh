@@ -9,5 +9,5 @@ elif [ $colour == YELLOW ]; then
    echo "YELLOW colour indicates READY TO START"
 else
     echo "sorry This colour is not avalible"
-    echo "THANKS YOU!!.."
+    echo "THANKS YOU ..!!"
 fi
